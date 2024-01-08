@@ -1,4 +1,12 @@
-### Hi there 👋
+- Hi, I’m Tony
+- I’m interested in video games
+- I’m currently learning C
+- I'm originally from Hawaii
+- I'm a sophomore in Electrical Engineering
+- I chose my major because it's magic until it isn't
+- A fun fact about me is: I was originally a business major
+- What do I want to learn from EE 205? How to be a better programmer
+- A book or movie I'd recommend is:  Godzilla Minus One (movie)
 
 <!--
 **Tonyl73/Tonyl73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
