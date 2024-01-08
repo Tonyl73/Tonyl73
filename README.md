@@ -1,7 +1,7 @@
 - Hi, I’m Tony
 - I’m interested in video games
 - I’m currently learning how to student again
-- I'm originally from Hawaii
+- I'm originally from Honolulu, Hawaii
 - I'm a sophomore in Electrical Engineering
 - I chose my major because it's magic until it isn't
 - A fun fact about me is: I was originally a business major
