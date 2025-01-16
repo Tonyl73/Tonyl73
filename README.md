@@ -1,3 +1,4 @@
+A little bio from my ECE 205 course:
 - Hi, I’m Tony
 - I’m interested in video games
 - I’m currently learning how to student again
@@ -5,7 +6,7 @@
 - I'm a Junior in Electrical Engineering
 - I chose my major because it's magic until it isn't
 - A fun fact about me is: I was originally a business major
-- What do I want to learn from EE 205? How to be a better programmer
+- What do I want to learn from ECE 205? How to be a better programmer
 - A book or movie I'd recommend is:  Godzilla Minus One (movie)
 
 <!--
