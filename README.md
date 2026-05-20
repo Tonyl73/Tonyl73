@@ -1,13 +1,14 @@
-A little bio from my ECE 205 course:
-- Hi, I’m Tony
-- I’m interested in video games
-- I’m currently learning how to student again
-- I'm originally from Honolulu, Hawaii
-- I'm a Junior in Electrical Engineering
-- I chose my major because it's magic until it isn't
-- A fun fact about me is: I was originally a business major
-- What do I want to learn from ECE 205? How to be a better programmer
-- A book or movie I'd recommend is:  Godzilla Minus One (movie)
+Hello!
+
+My name is Tony and I am currently an electrical engineering student at the University of Hawaii at Manoa.
+
+Things I have some experience with: image processing
+
+Things I want to work on and personally improve upon: image processing
+
+Yeah it doesn't take image processing to recognize the pattern here.
+
+Interests: Video games, robotics (?), and you guessed it... image processing.
 
 <!--
 **Tonyl73/Tonyl73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
