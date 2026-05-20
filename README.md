@@ -10,6 +10,8 @@ Yeah it doesn't take image processing to recognize the pattern here.
 
 Interests: Video games, robotics (?), and you guessed it... image processing.
 
+Always open to learning new things but learning new things can be hard.
+
 <!--
 **Tonyl73/Tonyl73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
